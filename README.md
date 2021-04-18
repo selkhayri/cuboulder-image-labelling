@@ -51,9 +51,3 @@ After training was completed, the model was used to predict the test target valu
 
 
 
-
-### Predicted vs Measured plot
-
-The following plot shows predicted temperatures vs measured temperatures.
-
-![plot](https://github.com/selkhayri/Bombay_-Mumbai-_Temps/tree/main/plots/Pred_vs_Meas.png)
